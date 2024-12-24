@@ -1,0 +1,15 @@
+C:\Users\jiang\source\repos\jiangdechuan\DC\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\jiang\source\repos\jiangdechuan\DC\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\jiang\source\repos\jiangdechuan\DC\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\jiang\source\repos\jiangdechuan\DC\WpfApp1\WpfApp1\obj\Debug\Wpf.csproj.AssemblyReference.cache
+C:\Users\jiang\source\repos\jiangdechuan\DC\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\jiang\source\repos\jiangdechuan\DC\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\jiang\source\repos\jiangdechuan\DC\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\jiang\source\repos\jiangdechuan\DC\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\jiang\source\repos\jiangdechuan\DC\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\jiang\source\repos\jiangdechuan\DC\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\jiang\source\repos\jiangdechuan\DC\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\jiang\source\repos\jiangdechuan\DC\WpfApp1\WpfApp1\obj\Debug\Wpf.csproj.GenerateResource.cache
+C:\Users\jiang\source\repos\jiangdechuan\DC\WpfApp1\WpfApp1\obj\Debug\Wpf.csproj.CoreCompileInputs.cache
+C:\Users\jiang\source\repos\jiangdechuan\DC\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\jiang\source\repos\jiangdechuan\DC\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
